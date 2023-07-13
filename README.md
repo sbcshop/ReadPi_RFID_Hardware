@@ -1,8 +1,6 @@
 # ReadPi_RFID_Hardware
 <img src="https://cdn.shopify.com/s/files/1/1217/2104/files/readpi_1.png?v=1672989840">
-
-
-In this github repo you will find Hardware design files for ReadPi RFID
+125KHz RFID Reader powered by Raspberry Pi Pico W. In this github repo you will find Hardware design files for ReadPi RFID
 
 ### Repository Contents:
   - [/Design Data](https://github.com/sbcshop/ReadPi_RFID_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
